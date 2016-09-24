@@ -1,0 +1,8 @@
+vhdl work "../vhd/MMIPS_pkg.vhd"
+vhdl work "../vhd/MMIPS_CPU_PO.vhd"
+vhdl work "../vhd/MMIPS_CPU_PC.vhd"
+vhdl work "../vhd/MMIPS_CPU.vhd"
+vhdl work "../vhd/IP_ITPush.vhd"
+vhdl work "../vhd/bench/txt_util.vhd"
+vhdl work "../vhd/bench/RAM_bev.vhd"
+vhdl work "../vhd/bench/tb_MMIPS_autotest.vhd"
